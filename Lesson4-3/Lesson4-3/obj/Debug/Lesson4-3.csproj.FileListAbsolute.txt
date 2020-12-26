@@ -1,0 +1,7 @@
+C:\Geekbr\Lesson4\Lesson4-3\Lesson4-3\bin\Debug\Lesson4-3.exe.config
+C:\Geekbr\Lesson4\Lesson4-3\Lesson4-3\bin\Debug\Lesson4-3.exe
+C:\Geekbr\Lesson4\Lesson4-3\Lesson4-3\bin\Debug\Lesson4-3.pdb
+C:\Geekbr\Lesson4\Lesson4-3\Lesson4-3\obj\Debug\Lesson4-3.csprojAssemblyReference.cache
+C:\Geekbr\Lesson4\Lesson4-3\Lesson4-3\obj\Debug\Lesson4-3.csproj.CoreCompileInputs.cache
+C:\Geekbr\Lesson4\Lesson4-3\Lesson4-3\obj\Debug\Lesson4-3.exe
+C:\Geekbr\Lesson4\Lesson4-3\Lesson4-3\obj\Debug\Lesson4-3.pdb
